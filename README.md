@@ -10,4 +10,4 @@ Challenges included missing data, which were addressed by using imputation techn
 ## Results/Conclusion
 The project successfully identified trends in the dataset. Graphs were created to visualize the findings, such as bar charts and scatter plots. The analysis provided insights into the given data.
 ## Contact
-For questions or collaborations, feel free to reach out via email at [your_email@example.com].
+For questions or collaborations, feel free to reach out via email at cbz5233@psu.edu
